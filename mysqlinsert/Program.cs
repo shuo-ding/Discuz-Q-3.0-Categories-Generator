@@ -1,8 +1,8 @@
-﻿/* Copyright (c) 2021 Shuo Ding
+﻿/* Copyright (c) 2021 Dr Shuo Ding
   5 July 2021
   Discuz Q 3.0 Categories Generators   
   Author Dr Shuo Ding, 2021  
-  Documentation Website: https://www.IoTNextDay.com  
+  Website: https://www.IoTNextDay.com  
   Email: Shuo.Ding.Australia@Gmail.com  
   All Right Reserved 
   Distribution of the copy of this software must include this copyright information   
