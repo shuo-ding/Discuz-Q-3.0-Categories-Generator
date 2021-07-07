@@ -1,5 +1,5 @@
 # Discuz-Q-3.0-Categories-Generator for v3.0.210702
-
+  Author Dr Shuo Ding July 2021
  
 1. mysql -u root -p
 2. input password of MySQL
