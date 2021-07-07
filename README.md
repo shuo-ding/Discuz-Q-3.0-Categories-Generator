@@ -3,14 +3,14 @@
  
 1. mysql -u root -p
 2. input password of MySQL
-3. Use <yourdatabase>
+3. Use ‘yourdatabase'
 4. select * from categories
 
 //Note- this command will DELETE all your contents of categories! 注意-以下命令将删掉你的所有栏目！请备份先！
 
 5. delete from categories
 
-6. paste the generated script here.  粘贴所有生成的MySQL script, 刷新网页，你就会看到所有新生成的栏目。
+6. paste the generated script here.  粘贴所有生成的MySQL script, 刷新网页，Ctrl+ F5 你就会看到所有新生成的栏目。
 
 7. Done
 
