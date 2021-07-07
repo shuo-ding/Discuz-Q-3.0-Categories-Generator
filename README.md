@@ -15,5 +15,8 @@
 7. Done
 
 Note: follow the format in config.txt including "end" string. 注意，在config.txt，“end”必须在第一行和最后一行，每一个栏目之间都用end相隔。
-  
  
+Welcome to my website:
+<a href="https://iotnextday.com" style="font-size:19px">IoT Next Day</a>
+ 
+The website may be not visible from some locations of the world. 
