@@ -1,4 +1,4 @@
-# Discuz-Q-3.0-Categories-Generator
+# Discuz-Q-3.0-Categories-Generator for v3.0.210702
 
  
 1. mysql -u root -p
